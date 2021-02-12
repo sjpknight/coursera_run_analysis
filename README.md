@@ -5,7 +5,7 @@ This repository contains two files:
 run_analysis.R
 CodeBook.md
 
-##run_analysis.R
+## run_analysis.R
 
 This R file carries out the following actions:
 
