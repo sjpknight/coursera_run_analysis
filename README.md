@@ -3,7 +3,7 @@ Assignment Week 4 - Coursera Getting and Cleaning Data Course
 This repository contains two files:
 
 run_analysis.R
-run_analysis_codebook.md
+CodeBook.md
 
 ##run_analysis.R
 
