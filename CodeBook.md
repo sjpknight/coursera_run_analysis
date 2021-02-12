@@ -7,15 +7,15 @@ Available via URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%
 Further info about the dataset here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
 Files included in the original data:
-'features_info.txt'= feature vector variables
-'features.txt' = titles of all 561 features found in the test and training feature data sets
-'activity_labels.txt' = activity labels and links to activity names
-'X_train.txt' = training set with 7,352 observations
-'y_train.txt' = activity labels for the 7,352 feature observations in the 'X_train.txt' file
-'subject_train.txt' = subject ID's for the 7,352 feature observations in the 'X_train.txt' file
-'X_test.txt' = test set for feature data with 2,947 observations
-'y_test.txt' = activity labels for the 2,947 feature observations in the 'X_test.txt' file
-'subject_test.txt' = subject ID's for the 2,947 feature observations in the 'X_test.txt' file
+* 'features_info.txt'= feature vector variables
+* 'features.txt' = titles of all 561 features found in the test and training feature data sets
+* 'activity_labels.txt' = activity labels and links to activity names
+* 'X_train.txt' = training set with 7,352 observations
+* 'y_train.txt' = activity labels for the 7,352 feature observations in the 'X_train.txt' file
+* 'subject_train.txt' = subject ID's for the 7,352 feature observations in the 'X_train.txt' file
+* 'X_test.txt' = test set for feature data with 2,947 observations
+* 'y_test.txt' = activity labels for the 2,947 feature observations in the 'X_test.txt' file
+* 'subject_test.txt' = subject ID's for the 2,947 feature observations in the 'X_test.txt' file
 
 # Transformations and Other Useful Information
 
